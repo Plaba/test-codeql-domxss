@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[chesscom source archive]",
+			"uri": "codeql-zip-archive://0-69/Users/plaba/Projects/generalHacking/chesscom/codeql/chesscom/src.zip/"
+		}
+	],
+	"settings": {}
+}
